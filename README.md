@@ -2,6 +2,11 @@
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 10.2.0.
 
+## Angular universal issue 
+
+1. Run `npm run dev:ssr` to start Angular Universal
+2. Navigate to `http://localhost:4200/protected`
+
 ## Development server
 
 Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The app will automatically reload if you change any of the source files.
